@@ -1,8 +1,0 @@
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\obj\Debug\PersonBuilder.csproj.AssemblyReference.cache
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\obj\Debug\PersonBuilder.csproj.SuggestedBindingRedirects.cache
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\obj\Debug\PersonBuilder.csproj.CoreCompileInputs.cache
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\bin\Debug\PersonBuilder.exe.config
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\bin\Debug\PersonBuilder.exe
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\bin\Debug\PersonBuilder.pdb
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\obj\Debug\PersonBuilder.exe
-D:\Personal\Learning\DesignPatterns\Creational Design Pattern\BuilderPattern\Examples\PersonBuilder\PersonBuilder\PersonBuilder\obj\Debug\PersonBuilder.pdb
